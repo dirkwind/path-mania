@@ -3,7 +3,7 @@ import turtle, random, threading, time, sys
 # NOTE: The entire game is piled into one file because of the way I made functions; they depend on variables within this file.
 
 # TABLE OF CONTENTS:
-#   highlight a word and use cmd+f to navigate
+#   highlight a word and use cmd+f or ctrl+f to navigate
 #
 # INTRO
 # SETUP
